@@ -1,6 +1,6 @@
 Name:		texlive-turabian
 Version:	36298
-Release:	1
+Release:	2
 Summary:	Create Turabian-formatted material using LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/turabian
